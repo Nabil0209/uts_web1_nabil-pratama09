@@ -340,7 +340,6 @@ function get_diskon_text($diskon_amount, $grandtotal) {
             <tr>
                 <td class="summary-label">Total Bayar</td>
                 <td class="summary-value total-pay-value" id="total-bayar-value"><?= format_rupiah($total_akhir); ?></td>
-            </tr>
         </table>
 
         <div style="margin-top: 15px;">
